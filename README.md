@@ -1,11 +1,7 @@
-<h2>Hello there,</h2>
+![Ricardo Freire](https://github.com/user-attachments/assets/71298d06-17cf-4628-b142-4c4785fd3211)
 
-![Frame 114-a (1)](https://github.com/user-attachments/assets/71298d06-17cf-4628-b142-4c4785fd3211)
-
-- 👋 Hi, I’m @ricfreire
-
-  
-<!---
-ricfreire/ricfreire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricfreire/"><img width="60px" src="https://ferreh.com/wp-content/uploads/2024/08/github-linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://dribbble.com/ricardofreire/"><img width="60px" src="https://ferreh.com/wp-content/uploads/2024/08/github-dribbble-1.png" alt="Dribbble"/></a>
+  <a href="https://www.behance.net/ricfreire"><img width="60px" src="https://ferreh.com/wp-content/uploads/2024/08/github-behance.png" alt="Behance"/></a>
+</p>
