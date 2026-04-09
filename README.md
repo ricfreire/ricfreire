@@ -1,5 +1,5 @@
 <p align="center">
   <a target="_blank" href="https://crafting.email">
-    <img src="https://github.com/user-attachments/assets/8f7c9f32-7ce8-4538-84cc-5e6fd9003925" title="The Email Experts for Mautic | Crafting.email"/>
+    <img src="https://github.com/user-attachments/assets/d3a4810c-c6c5-4e5b-863e-5d32fdb0a337" title="Crafting.email | Email crafted with care | Top 10 Mautic Contributors"/>
   </a>
 </p>
